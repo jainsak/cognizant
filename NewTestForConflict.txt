@@ -2,5 +2,14 @@ Line1 -- Conflict
 Line2 -- Conflict
 Line3 -- Conflict
 Line4 -- Conflict
+<<<<<<< HEAD
 Line5 -- Conflict. -version2
 Line6 -- Conflict
+=======
+
+Line5 -- Conflict.lavanya
+
+Line5 -- Conflict. sakshi
+Line6 -- Conflict
+
+>>>>>>> 2c413c1099aabcdf9e92bb9e8874ad2fab8c81ad
