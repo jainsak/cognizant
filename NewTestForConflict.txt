@@ -1,0 +1,5 @@
+Line1 -- Conflict
+Line2 -- Conflict
+Line3 -- Conflict
+Line4 -- Conflict
+Line5 -- Conflict
